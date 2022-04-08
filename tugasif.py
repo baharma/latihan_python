@@ -2,7 +2,7 @@ import cv2
 from cv2 import waitKey
 from matplotlib import pyplot as plt
 import numpy as np
-import imutils
+
 
 print('1 View Image Size')
 print('2. Convert Image to Grayscale')
